@@ -2,7 +2,7 @@
 
 A desktop-based **event management and activity registration system** for the 3-day conference **Carleton CS Connect**.  
 
-<p align="center">
+<p>
   <img 
     src="https://github.com/user-attachments/assets/4f78d5a8-2841-4b44-b8f2-891260459696" 
     alt="Event Management Dashboard UI" 
