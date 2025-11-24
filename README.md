@@ -66,8 +66,6 @@ This submission contains the following main files:
   - The **ER model** of the database.
   - An **English description** of the project design and schema.
 
-> In the original course submission, these files were provided as a zip, but here they are organized for easier viewing and execution.
-
 ---
 
 ## 🛠 Tech Stack
