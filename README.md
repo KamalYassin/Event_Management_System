@@ -10,6 +10,7 @@ A desktop-based **event management and activity registration system** for the 3-
   />
 </p>
 
+
 ## 🧠 Project Overview
 
 This application simulates how a real event registration portal might work for a multi-day Computer Science conference:
