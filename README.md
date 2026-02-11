@@ -83,6 +83,8 @@ python3 Event.py
 # If python3 does not work on your system, try instead:
 python Event.py
 
+```
+
 ---
 
 ## 🛠 Tech Stack
