@@ -66,6 +66,23 @@ This submission contains the following main files:
   - The **ER model** of the database.
   - An **English description** of the project design and schema.
 
+ ---
+
+## ▶️ How to Run the Project
+
+This application uses a local SQLite database file (`event_management.db`).  
+To avoid database errors, you must run the program from inside the correct folder.
+
+```bash
+# Step 1: Navigate into the project folder
+cd Event_Management_System-main/Event_Management
+
+# Step 2: Run the Python GUI application
+python3 Event.py
+
+# If python3 does not work on your system, try instead:
+python Event.py
+
 ---
 
 ## 🛠 Tech Stack
